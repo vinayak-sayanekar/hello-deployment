@@ -7,3 +7,4 @@ This project is created while learning deployment using:
 - Docker Compose
 - Nginx
 - GitHub Actions
+- First Deployment
