@@ -21,7 +21,7 @@ COPY . .
 
 RUN chmod +x entrypoint.sh
 
-EXPOSE 8001
+EXPOSE 8000
 
 # CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 # CMD ["gunicorn", "--bind", "0.0.0.0:8001", "config.wsgi:application"]
